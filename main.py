@@ -6,7 +6,7 @@ from datetime import datetime
 
 DATA_FILE = "books_data.json"
 
-#изменение
+
 
 
 # Функция сохранения данных в JSON
